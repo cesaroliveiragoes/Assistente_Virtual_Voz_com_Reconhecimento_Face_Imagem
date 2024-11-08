@@ -1,0 +1,1 @@
+# Assistente_Virtual_Voz_com_Reconhecimento_Face_Imagem
